@@ -1,0 +1,28 @@
+{
+  "name": "boutweather",
+  "version": "1.0.0",
+  "description": "Know your place's weather, temp., etc. with this simple package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajeshElEvEn/boutweather.git"
+  },
+  "keywords": [
+    "knowyourweather",
+    "weather",
+    "weatheratmyplace",
+    "myweather"
+  ],
+  "author": "eleven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prajeshElEvEn/boutweather/issues"
+  },
+  "homepage": "https://github.com/prajeshElEvEn/boutweather#readme",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}

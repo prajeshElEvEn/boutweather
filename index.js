@@ -26,6 +26,9 @@ const weather = (city) => {
             console.log('Pressure: ', parsed.main.pressure, 'hPa')
             console.log("------------------------")
         })
+        .on('end', (err) => {
+            if (err) return console.log('connection closed due to errors', err);
+        });
 }
 
 module.exports = weather
