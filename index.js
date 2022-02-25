@@ -27,7 +27,7 @@ const weather = (city) => {
             console.log("------------------------")
         })
         .on('end', (err) => {
-            if (err) return console.log('connection closed due to errors', err);
+            if (err) return console.log('Sorry ;-; No results found!.');
         });
 }
 
