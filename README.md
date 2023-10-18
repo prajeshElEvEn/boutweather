@@ -1,10 +1,12 @@
 # boutWeather
 
-Know the weather at your place, temperature, windspeed etc. by just entering your city/state/place name. This package uses [openWeather](https://openweathermap.org/)map's API.
+> is an ESM package
+
+Know the weather at your place by just entering your city/state/place name using this esm cli npm package. This package uses [openWeather](https://openweathermap.org/)map's API.
+
+![Sample](https://i.ibb.co/JR5bXGz/Screenshot-from-2023-10-19-03-34-43.png)
 
 > API key included in package
-
-> is an ESM package
 
 ## Installation
 
