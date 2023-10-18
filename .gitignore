@@ -1,2 +1,6 @@
-node_modules
+# files
 package-lock.json
+
+# dirs
+node_modules
+tests
