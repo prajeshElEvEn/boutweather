@@ -7,7 +7,11 @@ import {
   header,
 } from "./utils/index.js";
 
-await header();
-const choice = await getChoice();
-const data = await getWeather(choice, apiKey);
-await displayWeather(data);
+const weather = async () => {
+  await header();
+  const choice = await getChoice();
+  const data = await getWeather(choice, apiKey);
+  await displayWeather(data);
+};
+
+export default weather;

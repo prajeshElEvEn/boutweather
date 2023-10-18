@@ -2,13 +2,7 @@
 
 Know the weather at your place, temperature, windspeed etc. by just entering your city/state/place name. This package uses [openWeather](https://openweathermap.org/)map's API.
 
-## Pre-requisites
-
-Must have node installed on your PC.
-
-## Dependencies Required
-
-- [requests](https://www.npmjs.com/package/requests)
+> API key included in package
 
 ## Installation
 
@@ -38,6 +32,14 @@ Install boutweather with npm
 ```bash
   node index
 ```
+
+## Resources
+
+- [axios]()
+- [figlet]()
+- [inquirer]()
+- [chalk]()
+- [chalk]()
 
 ## Author
 
