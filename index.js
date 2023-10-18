@@ -12,7 +12,7 @@ const weather = (city) => {
             console.log('Know your Weather')
             console.log("------------------------")
             console.log('City: ', parsed.name)
-            console.log('Country: ', parsed.sys.country)
+            console.log('Country: ', parsed.sys.countries)
             console.log('Longitude: ', parsed.coord.lon, 'deg')
             console.log('Latitude: ', parsed.coord.lat, 'deg')
             console.log('Weather: ', parsed.weather[0].description)
