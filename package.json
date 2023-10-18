@@ -1,6 +1,6 @@
 {
   "name": "boutweather",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Know your place's weather, temp., etc. with this simple package.",
   "main": "index.js",
   "scripts": {
