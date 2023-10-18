@@ -8,6 +8,7 @@
     "start": "node .",
     "dev": "nodemon ."
   },
+  "bin": "./index.js",
   "type": "module",
   "repository": {
     "type": "git",
@@ -30,8 +31,7 @@
     "chalk": "^5.3.0",
     "figlet": "^1.6.0",
     "inquirer": "^9.2.11",
-    "nanospinner": "^1.1.0",
-    "requests": "^0.3.0"
+    "nanospinner": "^1.1.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"

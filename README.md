@@ -6,41 +6,26 @@ Know the weather at your place, temperature, windspeed etc. by just entering you
 
 ## Installation
 
-Install boutweather with npm
-
 ```bash
   npm i boutweather
 ```
 
-## How to Use
+## Usage
 
-- Install boutweather with npm
+```javascript
+import weather from boutweather;
 
-```bash
-  npm i boutweather
-```
-
-- Create a file 'index.js', and enter your place's name as an argument:
-
-```bash
-  const boutweather = require("boutweather")
-  boutweather('london')
-```
-
-- In Terminal, write:
-
-```bash
-  node index
+weather();
 ```
 
 ## Resources
 
-- [axios]()
-- [figlet]()
-- [inquirer]()
-- [chalk]()
-- [chalk]()
+- [axios](https://www.npmjs.com/package/axios)
+- [chalk](https://www.npmjs.com/package/chalk)
+- [figlet](https://www.npmjs.com/package/figlet)
+- [inquirer](https://www.npmjs.com/package/inquirer)
+- [nanospinner](https://www.npmjs.com/package/nanospinner)
 
 ## Author
 
-[@prajeshElEvEn](https://github.com/prajeshElEvEn)
+[@prajesh](https://bit.ly/prajesheleven)
