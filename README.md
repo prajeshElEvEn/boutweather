@@ -4,6 +4,8 @@ Know the weather at your place, temperature, windspeed etc. by just entering you
 
 > API key included in package
 
+> is an ESM package
+
 ## Installation
 
 ```bash
@@ -25,6 +27,10 @@ weather();
 - [figlet](https://www.npmjs.com/package/figlet)
 - [inquirer](https://www.npmjs.com/package/inquirer)
 - [nanospinner](https://www.npmjs.com/package/nanospinner)
+
+## Contributions
+
+Contributions are welcome! Feel free to open an issue.
 
 ## Author
 
