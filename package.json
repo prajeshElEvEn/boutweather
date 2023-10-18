@@ -4,9 +4,9 @@
   "description": "Know your place's weather, temp., etc. with this simple package.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node .",
-    "dev": "nodemon ."
+    "dev": "nodemon .",
+    "test": "nodemon tests/index.js"
   },
   "bin": "./index.js",
   "type": "module",

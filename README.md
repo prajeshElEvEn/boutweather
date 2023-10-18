@@ -15,7 +15,7 @@ Know the weather at your place, temperature, windspeed etc. by just entering you
 ## Usage
 
 ```javascript
-import weather from boutweather;
+import weather from "boutweather";
 
 weather();
 ```
