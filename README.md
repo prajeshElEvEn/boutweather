@@ -2,7 +2,7 @@
 
 > is an ESM package
 
-Know the weather at your place by just entering your city/state/place name using this esm cli npm package. This package uses [openWeather](https://openweathermap.org/)map's API.
+Know the weather at your place by just entering your city/state/place name using this esm cli npm package. This package uses [openWeather](https://openweathermap.org/) map's API.
 
 ![Sample](https://i.ibb.co/JR5bXGz/Screenshot-from-2023-10-19-03-34-43.png)
 
@@ -15,6 +15,12 @@ Know the weather at your place by just entering your city/state/place name using
 ```
 
 ## Usage
+
+- Set type to module in `package.json`
+
+```json
+"type": "module"
+```
 
 ```javascript
 import weather from "boutweather";
